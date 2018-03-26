@@ -1,0 +1,29 @@
+@media (min-width: 576px) { }
+
+@media (min-width: 768px and max-width: 991px) {
+
+.article_feature{
+min-height: 170px;
+}
+
+.add{
+
+}
+
+.article_listing{
+
+}
+
+.sidebar{
+
+}
+
+.sidebar_feature{
+
+}
+    
+}
+
+@media (min-width: 992px) { }
+
+@media (min-width: 1200px) { }
